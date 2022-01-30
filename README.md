@@ -1,2 +1,2 @@
 # yusitivi
-m3u for yusitivi last update may 2018
+m3u for yusitivi last update jan 2022
