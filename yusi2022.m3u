@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0,[100] TVRI
+#EXTINF:0 tvg-logo="" group-title="News",[100] TVRI
 rtp://@239.1.1.37:8196
 #EXTINF:0,[101] Metro TV
 rtp://@239.1.1.19:8088
@@ -18,6 +18,8 @@ rtp://@239.1.1.21:8100
 rtp://@239.1.1.15:8064
 #EXTINF:0,[109] INDOSIAR
 rtp://@239.1.1.17:8076
+#EXTINF:0,[110] Persib
+rtp://@239.1.1.101:8580
 #EXTINF:0,[112] NET.
 rtp://@239.1.1.119:8688
 #EXTINF:0,[114] Kompas TV
@@ -28,6 +30,8 @@ rtp://@239.1.1.183:9072
 rtp://@239.1.1.107:8616
 #EXTINF:0,[118] RTV
 rtp://@239.1.1.69:8388
+#EXTINF:0,[119] IDX channel
+rtp://@239.1.2.248:9398
 #EXTINF:0,[120] Daai TV
 rtp://@239.1.1.179:9048
 #EXTINF:0,[122] Bali TV
@@ -36,8 +40,16 @@ rtp://@239.1.1.72:8406
 rtp://@239.1.1.6:8010
 #EXTINF:0,[124] Antara TV
 rtp://@239.1.1.128:9218
+#EXTINF:0,[124] MNC News
+rtp://@239.1.1.146:7985
 #EXTINF:0,[127] TV Edukasi
 rtp://@239.1.1.39:8208
+#EXTINF:0,[128] Jowo TV
+rtp://@239.1.2.6:8000
+#EXTINF:0,[129] SEA Today
+rtp://@239.1.2.68:8384
+#EXTINF:0,[130] Indonesiana
+rtp://@239.1.1.206:9199
 #EXTINF:0,[201] National Geographic
 rtp://@239.1.1.169:8988
 #EXTINF:0,[202] National Geographic Wild
@@ -50,10 +62,12 @@ rtp://@239.1.1.121:8700
 rtp://@239.1.1.57:8316
 #EXTINF:0,[300] Dunia Anak
 rtp://@239.1.1.7:8016
-#EXTINF:0,[301] Disney Channel
+#EXTINF:0,[301] Indi Kids
 rtp://@239.1.1.45:8244
-#EXTINF:0,[302] Disney Junior
+#EXTINF:0,[302] M Kidz
 rtp://@239.1.1.47:8256
+#EXTINF:0,[303] Davinci Kids
+rtp://@239.1.1.99:8568
 #EXTINF:0,[304] Nickelodeon
 rtp://@239.1.1.41:8220
 #EXTINF:0,[305] Nick Jr.
@@ -64,19 +78,35 @@ rtp://@239.1.1.123:8712
 rtp://@239.1.1.73:8412
 #EXTINF:0,[310] DreamWorks
 rtp://@239.1.1.139:8808
-#EXTINF:0,[401] fyi
+#EXTINF:0,[311] ANIMAX
+rtp://@239.1.1.64:8358
+#EXTINF:0,[401] TVN Movies
 rtp://@239.1.1.61:8340
+#EXTINF:0,[402] Lingua Channel
+rtp://@239.1.2.90:9500 
 #EXTINF:0,[403] Eat and Go
 rtp://@239.1.1.229:9350
 #EXTINF:0,[404] Fashion TV
 rtp://@239.1.1.79:8448
-#EXTINF:0,[405] Nat Geo People
+#EXTINF:0,[405] TechStorm
 rtp://@239.1.1.67:8376
-#EXTINF:0,[500] E!Entertainment
+#EXTINF:0,[406] MTV
+rtp://@239.1.1.5:8004 
+#EXTINF:0,[407] Prambors
+rtp://@239.1.1.227:9336 
+#EXTINF:0,[408] HGTV
+rtp://@239.1.1.210:9506
+#EXTINF:0,[409] WB TV
+rtp://@239.1.2.9:8028
+#EXTINF:0,[410] GEM
+rtp://@239.1.1.86:8154
+#EXTINF:0,[411] One
+rtp://@239.1.1.172:9006
+#EXTINF:0,[500] imc
 rtp://@239.1.1.145:8844
 #EXTINF:0,[503] INSERT
 rtp://@239.1.1.113:8652
-#EXTINF:0,[504] FOX Life
+#EXTINF:0,[504] HITS
 rtp://@239.1.1.171:9000
 #EXTINF:0,[506] KIX
 rtp://@239.1.1.81:8460
@@ -84,11 +114,11 @@ rtp://@239.1.1.81:8460
 rtp://@239.1.1.137:8796
 #EXTINF:0,[510] TV5MONDE
 rtp://@239.1.1.55:8300
-#EXTINF:0,[511] SONY Channel
+#EXTINF:0,[511] Rock Entertainment
 rtp://@239.1.1.141:8820
-#EXTINF:0,[512] FOX
+#EXTINF:0,[512] Discovery Channel
 rtp://@239.1.1.43:8232
-#EXTINF:0,[513] FOX Crime
+#EXTINF:0,[513] MCN mycinema
 rtp://@239.1.1.161:8940
 #EXTINF:0,[516] TVN
 rtp://@239.1.1.135:8784
@@ -124,13 +154,13 @@ rtp://@239.1.1.87:8496
 rtp://@239.1.1.91:8520
 #EXTINF:0,[605] HBO Family
 rtp://@239.1.1.89:8508
-#EXTINF:0,[606] AMC Channel
+#EXTINF:0,[606] Ruang Trampil
 rtp://@239.1.1.111:8640
-#EXTINF:0,[607] FOX Movies
+#EXTINF:0,[607] Paramount Network
 rtp://@239.1.1.11:8040
-#EXTINF:0,[608] FOX Family Movies
+#EXTINF:0,[608] MFC My Family Channel
 rtp://@239.1.1.175:9024
-#EXTINF:0,[609] FOX Action Movies
+#EXTINF:0,[609] HITS Movies
 rtp://@239.1.1.125:8724
 #EXTINF:0,[610] Thrill
 rtp://@239.1.1.83:8472
@@ -146,15 +176,15 @@ rtp://@239.1.1.184:8778
 rtp://@239.1.1.226:9332
 #EXTINF:0,[701] BEIN Sports
 rtp://@239.1.1.217:9204
-#EXTINF:0,[702] BEIN Sports 2
+#EXTINF:0,[702] BEIN Sports 3
 rtp://@239.1.1.221:9300
 #EXTINF:0,[704] Fight Sport
 rtp://@239.1.1.177:9036
-#EXTINF:0,[705] FOX Sport 
+#EXTINF:0,[705] Horizon Sports
 rtp://@239.1.1.103:8592
 #EXTINF:0,[706] USEE Sport
 rtp://@239.1.1.101:8580
-#EXTINF:0,[707] FOX Sport 3
+#EXTINF:0,[707] USEE Sports 2
 rtp://@239.1.1.53:8292
 #EXTINF:0,[800] Euronews
 rtp://@239.1.1.193:9132
@@ -182,6 +212,12 @@ rtp://@239.1.1.224:9320
 rtp://@239.1.1.213:9252
 #EXTINF:0,[855] TV9
 rtp://@239.1.1.150:8874
+#EXTINF:0,[856] TvMu
+rtp://@239.1.1.170:8994
+#EXTINF:0,[857] TawafTV
+rtp://@239.1.2.236:9366
+#EXTINF:0,[858] MUI
+rtp://@239.1.2.52:8286
 #EXTINF:0,[910] NET. HD
 rtp://@239.1.1.158:8922
 #EXTINF:0,[911] TransTV HD
@@ -192,6 +228,10 @@ rtp://@239.1.1.222:9306
 rtp://@239.1.1.180:9054
 #EXTINF:0,[914] SCTV HD
 rtp://@239.1.2.58:8324
+#EXTINF:0,[914] Indonesiana HD
+rtp://@239.1.1.176:9197
+#EXTINF:0,[914] Jowo HD
+rtp://@239.1.2.212:9208
 #EXTINF:0,[920] National Geographic HD
 rtp://@239.1.1.243:9432
 #EXTINF:0,[921] Nat Goe Wild HD
@@ -200,17 +240,27 @@ rtp://@239.1.1.207:9216
 rtp://@239.1.1.23:8112
 #EXTINF:0,[982] CNN HD
 rtp://@239.1.1.246:9438
-#EXTINF:0,[930] Disney Channel HD
+#EXTINF:0,[930] Indi Kids HD
 rtp://@239.1.1.201:9180
 #EXTINF:0,[932] DreamWork HD
 rtp://@239.1.1.234:9222
-#EXTINF:0,[941] Nat Goe People HD
+#EXTINF:0,[933] Animax HD
+rtp://@239.1.1.142:8967
+#EXTINF:0,[941] TechStorm HD
 rtp://@239.1.2.229:9330
-#EXTINF:0,[942] Channel[V] HD
+#EXTINF:0,[942] TLC HD
 rtp://@239.1.2.235:9342
-#EXTINF:0,[950] FOX Life HD
+#EXTINF:0,[943] AFN HD
+rtp://@239.1.2.13:8052
+#EXTINF:0,[944] One HD
+rtp://@239.1.2.21:8100
+#EXTINF:0,[945] GEM HD
+rtp://@239.1.2.18:8082
+#EXTINF:0,[946] MTV HD
+rtp://@239.1.2.16:8070
+#EXTINF:0,[950] HITS HD
 rtp://@239.1.1.209:9228
-#EXTINF:0,[951] FOX HD
+#EXTINF:0,[951] Discovery Channel HD
 rtp://@239.1.1.247:9440
 #EXTINF:0,[952] K-Plus HD
 rtp://@239.1.1.202:9186
@@ -220,7 +270,7 @@ rtp://@239.1.1.174:9018
 rtp://@239.1.2.207:9190
 #EXTINF:0,[955] TVN HD
 rtp://@239.1.2.211:9202
-#EXTINF:0,[956] FOX Crime HD
+#EXTINF:0,[956] MCN mycinema HD
 rtp://@239.1.2.225:9318
 #EXTINF:0,[958] KBS World HD
 rtp://@239.1.1.13:8052
@@ -232,22 +282,35 @@ rtp://@239.1.1.245:9436
 rtp://@239.1.1.25:8124
 #EXTINF:0,[968] Star Chinese Movies HD
 rtp://@239.1.2.231:9336
-#EXTINF:0,[970] BEIN Sports HD
+#EXTINF:0,[969] Spotv HD
+rtp://@239.1.1.109:8623
+#EXTINF:0,[970] Spotv2 HD
+rtp://@239.1.1.196:9145
+#EXTINF:0,[971] BEIN Sports HD
 rtp://@239.1.1.248:9494
-#EXTINF:0,[971] BEIN Sports 2 HD
+#EXTINF:0,[972] BEIN Sports 3 HD
 rtp://@239.1.1.249:9496
-#EXTINF:0,[973] FOX Sport HD
+#EXTINF:0,[973] Horizon Sports HD
 rtp://@239.1.2.201:9174
-#EXTINF:0,[974] USEE Sports HD
+#EXTINF:0,[974] Usee Sports HD
 rtp://@239.1.2.203:9180
-#EXTINF:0,[975] FOX Sport 3 HD
+#EXTINF:0,[975] Usee Sports 2 HD
 rtp://@239.1.2.205:9186
 #EXTINF:0,[976] Fight Sport HD
 rtp://@239.1.2.209:9196
+#EXTINF:0,[977] NBA HD
+rtp://@239.1.2.210:9444
+#EXTINF:0,[978] NBA2 HD
+rtp://@239.1.1.49:8268 nba hd
 #EXTINF:0,[980] NHK World HD
 rtp://@239.1.2.239:9354
 #EXTINF:0,[981] DW HD
 rtp://@239.1.2.243:9360
+#EXTINF:0,[982] 
+#EXTINF:0,[983] 
+#EXTINF:0,[984] 
+#EXTINF:0,[985] 
+#EXTINF:0,[986] 
 #EXTINF:0,[973] FLiK HD
 rtp://@239.1.1.239:9276
 #EXTINF:0,[991] HBO HD
@@ -260,9 +323,15 @@ rtp://@239.1.2.249:9378
 rtp://@239.1.2.245:9366
 #EXTINF:0,[996] CINEMAX HD
 rtp://@239.1.2.247:9372
-#EXTINF:0,[997] FOX Family Movies HD
+#EXTINF:0,[997] MFC My Family Channel HD
 rtp://@239.1.1.237:9396
-#EXTINF:0,[998] FOX Movies HD
+#EXTINF:0,[998] Paramount Network HD
 rtp://@239.1.1.211:9240
-#EXTINF:0,[999] FOX Action Movies HD
+#EXTINF:0,[999] HITS Movies HD
 rtp://@239.1.1.190:9116
+#EXTINF:0,[99A] Cinema World HD
+rtp://@239.1.2.80:8578
+#EXTINF:0,[99B] Galaxy HD
+rtp://@239.1.1.136:8790
+#EXTINF:0,[99C] Galaxy Premium HD
+rtp://@239.1.2.100:9518
