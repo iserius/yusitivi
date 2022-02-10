@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTM3U
+#EXTINF:0,[101] Rri net
+rtp://@239.1.2.74:8420
 #EXTINF:0 tvg-logo="" group-title="News",[100] TVRI
 rtp://@239.1.1.37:8196
 #EXTINF:0,[101] Metro TV
@@ -246,7 +248,21 @@ rtp://@239.1.1.201:9180
 rtp://@239.1.1.234:9222
 #EXTINF:0,[933] Animax HD
 rtp://@239.1.1.142:8967
-#EXTINF:0,[941] TechStorm HD
+EXTINF:0,[941] Nick hd 
+rtp://@239.1.1.14:7982
+#EXTINF:0,[941]Nick jr. Hd
+rtp://@239.1.1.162:7983
+#EXTINF:0,[941]Afn hd
+rtp://@239.1.2.13:8052
+#EXTINF:0,[941]Rock extreme hd
+rtp://@239.1.1.112:8646
+#EXTINF:0,[941]Hgtv hd
+rtp://@239.1.2.34:8178
+#EXTINF:0,[941]Wbtv hd
+rtp://@239.1.2.244:9078
+#EXTINF:0,[941] Fashion hd
+rtp://@239.1.2.237:9350
+##EXTINF:0,[941] TechStorm HD
 rtp://@239.1.2.229:9330
 #EXTINF:0,[942] TLC HD
 rtp://@239.1.2.235:9342
@@ -306,10 +322,14 @@ rtp://@239.1.1.49:8268 nba hd
 rtp://@239.1.2.239:9354
 #EXTINF:0,[981] DW HD
 rtp://@239.1.2.243:9360
-#EXTINF:0,[982] 
-#EXTINF:0,[983] 
-#EXTINF:0,[984] 
-#EXTINF:0,[985] 
+#EXTINF:0,[982] Cnbc hd 
+rtp://@239.1.2.94:9448
+#EXTINF:0,[983] Cna hd
+rtp://@239.1.2.23:8112
+#EXTINF:0,[984] Aljazeera hd
+rtp://@239.1.2.8:8022
+#EXTINF:0,[985] Francw24 hd
+rtp://@239.1.2.22:8106
 #EXTINF:0,[986] 
 #EXTINF:0,[973] FLiK HD
 rtp://@239.1.1.239:9276
@@ -335,3 +355,10 @@ rtp://@239.1.2.80:8578
 rtp://@239.1.1.136:8790
 #EXTINF:0,[99C] Galaxy Premium HD
 rtp://@239.1.2.100:9518
+
+
+Zee 239.1.1.129:8748
+
+
+Rock enternainment hd 239.1.2.76:9310
+Tvn movies hd 239.1.2.72:8408
