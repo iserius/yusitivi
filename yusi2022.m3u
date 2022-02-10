@@ -67,11 +67,11 @@ rtp://@239.1.1.121:8700
 #EXTINF:0,[205] History
 rtp://@239.1.1.57:8316
 #EXTINF:0,[207] Discovery
-
+239.1.1.43:8232
 #EXTINF:0,[208] Lingua Channel
 rtp://@239.1.2.90:9500 
 #EXTINF:0,[209] Techstorm
-
+239.1.1.67:8376
 #EXTINF:0,[300] Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:0,[301] Indi Kids
@@ -93,15 +93,15 @@ rtp://@239.1.1.139:8808
 #EXTINF:0,[311] BabyFirst
 rtp://@239.1.1.157:8916 
 #EXTINF:0,[312] Dunia Anak
-
+239.1.1.7:8016
 #EXTINF:0,[313] M KIDZ
-
+239.1.1.47:8256
 #EXTINF:0,[314] Indi Kids
-
+239.1.1.45:8244
 #EXTINF:0,[315] Horee !
-
+239.1.1.68:8382
 #EXTINF:0,[316] Mentari TV
-
+239.1.1.127:8815
 #EXTINF:0,[401] TVN Movies
 rtp://@239.1.1.61:8340
 #EXTINF:0,[402] AFN 
@@ -113,7 +113,7 @@ rtp://@239.1.1.79:8448
 #EXTINF:0,[405] TechStorm
 rtp://@239.1.1.67:8376
 #EXTINF:0,[406] TLC
-
+239.1.1.173:9012
 #EXTINF:0,[409] WB TV
 rtp://@239.1.2.9:8028
 #EXTINF:0,[410] GEM
@@ -133,14 +133,13 @@ rtp://@239.1.1.227:9336
 #EXTINF:0,[500] HGTV
 rtp://@239.1.1.210:9506
 #EXTINF:0,[501] Rock Extreme
-
+239.1.1.134:877
 #EXTINF:0,[502] ANIMAX
 rtp://@239.1.1.64:8358
 #EXTINF:0,[503] INSERT
 rtp://@239.1.1.113:8652
-
 #EXTINF:0,[505] Lifetime
-
+239.1.1.181:9266
 #EXTINF:0,[506] KIX
 rtp://@239.1.1.81:8460
 #EXTINF:0,[507] HITS
@@ -168,7 +167,7 @@ rtp://@239.1.1.165:8964
 #EXTINF:0,[520] WakuWaku Japan
 rtp://@239.1.1.75:8424
 #EXTINF:0,[521] Star Chinese Channel
-
+239.1.1.153:8892
 #EXTINF:0,[523] K-Plus
 rtp://@239.1.1.242:9426
 #EXTINF:0,[524] Formosa
@@ -188,7 +187,7 @@ rtp://@239.1.1.115:8664
 #EXTINF:0,[534] Citra Drama
 rtp://@239.1.1.44:8238
 #EXTINF:0,[535] Citra Dangdut
-
+239.1.1.143:8832
 #EXTINF:0,[536] GEM
 rtp://@239.1.1.86:8154
 #EXTINF:0,[537] One
@@ -199,14 +198,14 @@ rtp://@239.1.1.172:9006
 
 #EXTINF:0,[540] EBC Asia
 
-#EXTINF:0,[541] Newtv
+#EXTINF:0,[ĺ541] Newtv
 
 #EXTINF:0,[542] Chinese Drama
 rtp://@239.1.2.10:8306
 #EXTINF:0,[600] Paramount Channel
 rtp://@239.1.1.11:8040
 #EXTINF:0,[601] HBO
-
+239.1.1.95:8544
 #EXTINF:0,[602] HBO Signature
 rtp://@239.1.1.93:8532
 #EXTINF:0,[603] CINEMAX
@@ -244,7 +243,8 @@ rtp://@239.1.2.249:9390
 #EXTINF:0,[622] Star Chinese Movies
 rtp://@239.1.1.131:8760
 #EXTINF:0,[623] mycinema asia
-
+624 mycinema asia
+239.1.1.151:8880
 #EXTINF:0,[701] BEIN Sports
 rtp://@239.1.1.217:9204
 #EXTINF:0,[702] BEIN Sports 3
@@ -257,8 +257,8 @@ rtp://@239.1.1.132:8761
 rtp://@239.1.1.198:9157
 #EXTINF:0,[708] NBA TV
 rtp://@239.1.1.49:8268
-#EXTINF:0,[709] ???
-
+#EXTINF:0,[709] egg network
+239.1.1.50:8274
 #EXTINF:0,[714] Horizon Sports
 rtp://@239.1.1.103:8592
 
@@ -281,11 +281,11 @@ rtp://@239.1.1.236:9390
 #EXTINF:0,[808] DW TV
 rtp://@239.1.1.187:9096
 #EXTINF:0,[809] TVBS
-
+$$$$$
 #EXTINF:0,[810] TRTWORLD
 rtp://@239.1.2.84:8296
 #EXTINF:0,[811] CNBC Indonesia
-
+239.1.2.92:9490
 #EXTINF:0,[812] MNC News
 rtp://@239.1.1.146:7985
 
@@ -294,7 +294,7 @@ rtp://@239.1.1.185:9084
 #EXTINF:0,[852] Rodja TV
 rtp://@239.1.1.224:9320
 #EXTINF:0,[853] mtatv
-
+239.1.2.234:9374
 #EXTINF:0,[854] MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:0,[855] TV9
@@ -306,7 +306,7 @@ rtp://@239.1.2.236:9366
 #EXTINF:0,[860] MUI
 rtp://@239.1.2.52:8286
 #EXTINF:0,[891] HBO
-
+239.1.2.114:9428
 #EXTINF:0,[892] HBO Signature
 rtp://@239.1.1.93:8532
 #EXTINF:0,[893] HBO Hits
@@ -316,7 +316,7 @@ rtp://@239.1.1.89:8508
 #EXTINF:0,[895] Cinemax
 rtp://@239.1.1.87:8496
 #EXTINF:0,[900] Ruang trampil HD
-
+239.1.1.111:8640
 #EXTINF:0,[905] UseeSport HD
 rtp://@239.1.2.203:9180
 #EXTINF:0,[906] UseeSport2 HD
@@ -326,7 +326,7 @@ rtp://@239.1.2.70:8396
 #EXTINF:0,[908] UseePrime HD
 rtp://@239.1.1.252:9486
 #EXTINF:0,[909] UseePhoto HD
-
+239.1.2.24:8118
 #EXTINF:0,[910] NET. HD
 rtp://@239.1.1.158:8922
 #EXTINF:0,[911] TransTV HD
@@ -352,7 +352,7 @@ rtp://@239.1.1.23:8112
 #EXTINF:0,[923] Galaxy HD
 rtp://@239.1.1.136:8790
 #EXTINF:0,[924] CGTN Documentary HD
-
+239.1.2.4:7998
 #EXTINF:0,[925] CinemaWorld HD
 rtp://@239.1.2.80:8578
 #EXTINF:0,[926] Galaxy Premium HD
@@ -394,7 +394,7 @@ rtp://@239.1.2.229:9330
 #EXTINF:0,[948] MTV HD
 rtp://@239.1.2.16:8070
 #EXTINF:0,[949] iKonser HD
-
+$$$$
 #EXTINF:0,[952] K-Plus HD
 rtp://@239.1.1.202:9186
 #EXTINF:0,[953] NHK World Premium HD
@@ -460,7 +460,7 @@ rtp://@239.1.2.239:9354
 #EXTINF:0,[988] DW HD
 rtp://@239.1.2.243:9360
 #EXTINF:0,[989] imc HD
-
+239.1.1.145:8844
 #EXTINF:0,[990] FLiK HD
 rtp://@239.1.1.239:9276
 #EXTINF:0,[991] HBO HD
