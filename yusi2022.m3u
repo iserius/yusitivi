@@ -221,9 +221,9 @@ rtp://@239.1.1.83:8472
 #EXTINF:0,[611] Celestial Movies
 rtp://@239.1.1.97:8556
 #EXTINF:0,[612] MyCinema
-
+239.1.1.161:8940
 #EXTINF:0,[613] tvN Movies
-
+239.1.1.61:8340
 #EXTINF:0,[614] Z Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:0,[615] Cinema World
@@ -338,7 +338,7 @@ rtp://@239.1.1.180:9054
 #EXTINF:0,[914] SCTV HD
 rtp://@239.1.2.58:8324
 #EXTINF:0,[915] MetroTV HD
-
+239.1.2.2.7986
 #EXTINF:0,[916] Indonesiana HD
 rtp://@239.1.1.176:9197
 #EXTINF:0,[917] Channel Jowo
@@ -362,17 +362,17 @@ rtp://@239.1.1.247:9440
 #EXTINF:0,[928] Animax HD
 rtp://@239.1.1.142:8967
 #EXTINF:0,[929] AniPlus HD
-
+239.1.2.104:9526
 #EXTINF:0,[932] DreamWorks HD
 rtp://@239.1.1.234:9222
 #EXTINF:0,[933] CartoonNetworks HD
-
+239.1.2.81.8083
 #EXTINF:0,[934] IndiKids HD
 rtp://@239.1.1.201:9180
 #EXTINF:0,[935] Boomerang HD
-
+239.1.1.163:8084
 #EXTINF:0,[936] MyCinema HD
-
+239.1.2.225:9318
 #EXTINF:0,[937] MyFamilyChannel HD
 rtp://@239.1.1.237:9396
 #EXTINF:0,[938] Nickelodeon HD
