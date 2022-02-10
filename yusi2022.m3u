@@ -91,7 +91,7 @@ rtp://@239.1.1.73:8412
 #EXTINF:0,[310] DreamWorks
 rtp://@239.1.1.139:8808
 #EXTINF:0,[311] BabyFirst
-239.1.1.157:8916 
+rtp://@239.1.1.157:8916 
 #EXTINF:0,[312] Dunia Anak
 
 #EXTINF:0,[313] M KIDZ
@@ -202,7 +202,7 @@ rtp://@239.1.1.172:9006
 #EXTINF:0,[541] Newtv
 
 #EXTINF:0,[542] Chinese Drama
-
+rtp://@239.1.2.10:8306
 #EXTINF:0,[600] Paramount Channel
 rtp://@239.1.1.11:8040
 #EXTINF:0,[601] HBO
@@ -240,7 +240,7 @@ rtp://@239.1.1.71:8400
 #EXTINF:0,[620] imc
 rtp://@239.1.1.145:8844
 #EXTINF:0,[621] Galaxy Premium
-
+rtp://@239.1.2.249:9390
 #EXTINF:0,[622] Star Chinese Movies
 rtp://@239.1.1.131:8760
 #EXTINF:0,[623] mycinema asia
@@ -283,7 +283,7 @@ rtp://@239.1.1.187:9096
 #EXTINF:0,[809] TVBS
 
 #EXTINF:0,[810] TRTWORLD
-239.1.2.84:8296
+rtp://@239.1.2.84:8296
 #EXTINF:0,[811] CNBC Indonesia
 
 #EXTINF:0,[812] MNC News
@@ -324,7 +324,7 @@ rtp://@239.1.2.205:9186
 #EXTINF:0,[907] SEA Today HD
 rtp://@239.1.2.70:8396
 #EXTINF:0,[908] UseePrime HD
-239.1.1.252:9486
+rtp://@239.1.1.252:9486
 #EXTINF:0,[909] UseePhoto HD
 
 #EXTINF:0,[910] NET. HD
