@@ -74,10 +74,6 @@ rtp://@239.1.2.90:9500
 rtp://@239.1.1.67:8376
 #EXTINF:0,[300] Dunia Anak
 rtp://@239.1.1.7:8016
-#EXTINF:0,[301] Indi Kids
-rtp://@239.1.1.45:8244
-#EXTINF:0,[302] M Kidz
-rtp://@239.1.1.47:8256
 #EXTINF:0,[303] Davinci Kids
 rtp://@239.1.1.99:8568
 #EXTINF:0,[304] Nickelodeon
@@ -110,17 +106,8 @@ rtp://@239.1.2.12:8046
 rtp://@239.1.1.229:9350
 #EXTINF:0,[404] Fashion TV
 rtp://@239.1.1.79:8448
-#EXTINF:0,[405] TechStorm
-rtp://@239.1.1.67:8376
 #EXTINF:0,[406] TLC
 rtp://@239.1.1.173:9012
-#EXTINF:0,[409] WB TV
-rtp://@239.1.2.9:8028
-#EXTINF:0,[410] GEM
-rtp://@239.1.1.86:8154
-#EXTINF:0,[411] One
-rtp://@239.1.1.172:9006
-
 
 #EXTINF:0,[450] MTV
 rtp://@239.1.1.5:8004 
@@ -128,12 +115,10 @@ rtp://@239.1.1.5:8004
 rtp://@239.1.1.227:9336 
 #EXTINF:0,[453] iKonser
 
-
-
 #EXTINF:0,[500] HGTV
 rtp://@239.1.1.210:9506
-#EXTINF:0,[501] Rock Extreme
-rtp://@239.1.1.134:877
+#EXTINF:0,[501] Rock Extreme ????
+rtp://@239.1.1.134:877 ????
 #EXTINF:0,[502] ANIMAX
 rtp://@239.1.1.64:8358
 #EXTINF:0,[503] INSERT
@@ -192,14 +177,6 @@ rtp://@239.1.1.143:8832
 rtp://@239.1.1.86:8154
 #EXTINF:0,[537] One
 rtp://@239.1.1.172:9006
-#EXTINF:0,[538] ??
-
-#EXTINF:0,[539] ??
-
-#EXTINF:0,[540] EBC Asia
-
-#EXTINF:0,[ĺ541] Newtv
-
 #EXTINF:0,[542] Chinese Drama
 rtp://@239.1.2.10:8306
 #EXTINF:0,[600] Paramount Channel
@@ -238,12 +215,11 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.1.71:8400
 #EXTINF:0,[620] imc
 rtp://@239.1.1.145:8844
-#EXTINF:0,[621] Galaxy Premium
-rtp://@239.1.2.249:9390
+#EXTINF:0,[621] Galaxy Premium ???
+rtp://@239.1.2.249:9390 ????
 #EXTINF:0,[622] Star Chinese Movies
 rtp://@239.1.1.131:8760
-#EXTINF:0,[623] mycinema asia
-624 mycinema asia
+#EXTINF:0,[624] mycinema asia
 rtp://@239.1.1.151:8880
 #EXTINF:0,[701] BEIN Sports
 rtp://@239.1.1.217:9204
@@ -261,7 +237,6 @@ rtp://@239.1.1.49:8268
 rtp://@239.1.1.50:8274
 #EXTINF:0,[714] Horizon Sports
 rtp://@239.1.1.103:8592
-
 #EXTINF:0,[800] Euronews
 rtp://@239.1.1.193:9132
 #EXTINF:0,[801] CNN
@@ -280,21 +255,18 @@ rtp://@239.1.1.191:9120
 rtp://@239.1.1.236:9390
 #EXTINF:0,[808] DW TV
 rtp://@239.1.1.187:9096
-#EXTINF:0,[809] TVBS
-$$$$$
 #EXTINF:0,[810] TRTWORLD
 rtp://@239.1.2.84:8296
 #EXTINF:0,[811] CNBC Indonesia
 rtp://@239.1.2.92:9490
 #EXTINF:0,[812] MNC News
 rtp://@239.1.1.146:7985
-
 #EXTINF:0,[850] Al Quran Al Kareem
 rtp://@239.1.1.185:9084
 #EXTINF:0,[852] Rodja TV
 rtp://@239.1.1.224:9320
 #EXTINF:0,[853] mtatv
-239.1.2.234:9374
+rtp://@239.1.2.234:9374
 #EXTINF:0,[854] MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:0,[855] TV9
@@ -365,8 +337,8 @@ rtp://@239.1.1.142:8967
 rtp://@239.1.2.104:9526
 #EXTINF:0,[932] DreamWorks HD
 rtp://@239.1.1.234:9222
-#EXTINF:0,[933] CartoonNetworks HD
-rtp://@239.1.2.81.8083
+#EXTINF:0,[933] CartoonNetworks HD _ SDP
+rtp://@239.1.2.81.8083 
 #EXTINF:0,[934] IndiKids HD
 rtp://@239.1.1.201:9180
 #EXTINF:0,[935] Boomerang HD
@@ -379,8 +351,8 @@ rtp://@239.1.1.237:9396
 rtp://@239.1.1.14:7982
 #EXTINF:0,[939] Nick Jr. HD
 rtp://@239.1.1.162:7983
-#EXTINF:0,[940] FashionTV HD
-rtp://@239.1.2.237:9350
+#EXTINF:0,[940] FashionTV HD __ SDP
+rtp://@239.1.2.237:9350 
 #EXTINF:0,[942] afn HD
 rtp://@239.1.2.13:8052
 #EXTINF:0,[944] TLC HD
@@ -393,15 +365,13 @@ rtp://@239.1.2.18:8082
 rtp://@239.1.2.229:9330
 #EXTINF:0,[948] MTV HD
 rtp://@239.1.2.16:8070
-#EXTINF:0,[949] iKonser HD
-$$$$
 #EXTINF:0,[952] K-Plus HD
 rtp://@239.1.1.202:9186
 #EXTINF:0,[953] NHK World Premium HD
 rtp://@239.1.1.174:9018
 #EXTINF:0,[954] KIX HD
 rtp://@239.1.2.207:9190
-#EXTINF:0,[955] TVN HD
+#EXTINF:0,[955] TVN HD _DRM
 rtp://@239.1.2.211:9202
 #EXTINF:0,[957] MyCinemaAsia HD
 rtp://@239.1.2.225:9318
