@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:0 group-title="Sports",00_TipiBola0
+rtp://@239.1.1.252:9486
+#EXTINF:0 group-title="Sports",01_TipiBola1
+rtp://@239.1.1.101:8580
+#EXTINF:0 group-title="Sports",02_TipiBola2
+rtp://@239.1.1.53:8292
+#EXTINF:0 group-title="News",TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:0 group-title="News",MetroTV
+rtp://@239.1.1.19:8088
+#EXTINF:0 group-title="News",CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:0 group-title="News",TV One
+rtp://@239.1.1.31:8160
+#EXTINF:0 group-title="News",TransTV
+rtp://@239.1.1.27:8136
+#EXTINF:0 group-title="News",Trans7
+rtp://@239.1.1.29:8148
+#EXTINF:0 group-title="News",SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:0 group-title="News",ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:0 group-title="News",INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:0 group-title="News",NET.
+rtp://@239.1.1.119:8688
+#EXTINF:0 group-title="News",Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:0 group-title="News",Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:0 group-title="Movie",Citra Drama
+rtp://@239.1.1.44:8238
+#EXTINF:0 group-title="Movie",Citra Dangdut
+rtp://@239.1.1.143:8832
+#EXTINF:0 group-title="Movie",Bioskop Indonesia
+rtp://@239.1.1.226:9332
+#EXTINF:0 group-title="Movie",Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+#EXTINF:0 group-title="News",Rodja TV
+rtp://@239.1.1.224:9320
+#EXTINF:0 group-title="News",mtatv
+rtp://@239.1.2.234:9374
+#EXTINF:0 group-title="News",MQTV
+rtp://@239.1.1.213:9252
+#EXTINF:0 group-title="News",TV9
+rtp://@239.1.1.150:8874
+#EXTINF:0 group-title="News",TvMu
+rtp://@239.1.1.170:8994
+#EXTINF:0 group-title="News",TawafTV
+rtp://@239.1.2.236:9366
+#EXTINF:0 group-title="News",MUI
+rtp://@239.1.2.52:8286
+#EXTINF:0 group-title="Kids",Davinci Kids
+rtp://@239.1.1.99:8568
+#EXTINF:0 group-title="Kids",Carton Network
+rtp://@239.1.1.123:8712
+#EXTINF:0 group-title="Kids",BabyFirst
+rtp://@239.1.1.157:8916 
+#EXTINF:0 group-title="Kids",Animax HD
+rtp://@239.1.1.142:8967
+#EXTINF:0 group-title="Kids",AniPlus HD
+rtp://@239.1.2.104:9526
+#EXTINF:0 group-title="Kids",Boomerang HD
+rtp://@239.1.1.163:8084
+#EXTINF:0 group-title="Kids",Nickelodeon HD
+rtp://@239.1.1.14:7982
+#EXTINF:0 group-title="Kids",Nick Jr. HD
+rtp://@239.1.1.162:7983
+#EXTINF:0 group-title="Movie",MTV HD
+rtp://@239.1.2.16:8070
+#EXTINF:0 group-title="Movie",KIX HD
+rtp://@239.1.2.207:9190
+#EXTINF:0 group-title="Movie",AXN HD
+rtp://@239.1.1.245:9436
+#EXTINF:0 group-title="Movie",TVN	
+rtp://@239.1.1.135:8784
+#EXTINF:0 group-title="Movie",tvN Movies HD
+rtp://@239.1.2.72:8408
+#EXTINF:0 group-title="Movie",KBS World
+rtp://@239.1.1.167:8976
+#EXTINF:0 group-title="Movie",Arirang
+rtp://@239.1.1.147:8856
+#EXTINF:0 group-title="Movie",K-Plus HD
+rtp://@239.1.1.202:9186
+#EXTINF:0 group-title="News",NHK World Premium HD
+rtp://@239.1.1.174:9018
+#EXTINF:0 group-title="Movie",GEM HD
+rtp://@239.1.2.18:8082
+#EXTINF:0 group-title="Movie",Thrill
+rtp://@239.1.1.83:8472
+#EXTINF:0 group-title="Movie",Celestial Movies
+rtp://@239.1.1.97:8556
+#EXTINF:0 group-title="Movie",Z Bioskop
+rtp://@239.1.1.129:8748
+#EXTINF:0 group-title="Movie",egg network
+rtp://@239.1.1.50:8274
+#EXTINF:0 group-title="Movie",AFN HD
+rtp://@239.1.2.13:8052
+#EXTINF:0 group-title="Movie",TLC
+rtp://@239.1.1.173:9012
+#EXTINF:0 group-title="Movie",TechStorm HD
+rtp://@239.1.2.229:9330
+#EXTINF:0 group-title="Movie",HGTV HD
+rtp://@239.1.2.34:8178
+#EXTINF:0 group-title="News",National Geographic
+rtp://@239.1.1.169:8988
+#EXTINF:0 group-title="News",Nat Goe Wild HD
+rtp://@239.1.1.207:9216
+#EXTINF:0 group-title="News",History HD
+rtp://@239.1.1.23:8112
+#EXTINF:0 group-title="News",Discovery HD
+rtp://@239.1.1.247:9440
+#EXTINF:0 group-title="Sports",Bein Sport 1
+rtp://@239.1.1.217:9204
+#EXTINF:0 group-title="Sports",Bein Sport 3
+rtp://@239.1.1.221:9300
+#EXTINF:0 group-title="Sports",SPOTV
+rtp://@239.1.1.132:8761
+#EXTINF:0 group-title="Sports",SPOTV2
+rtp://@239.1.1.198:9157
+#EXTINF:0 group-title="Sports",FightSport HD
+rtp://@239.1.2.209:9196
+#EXTINF:0 group-title="News",Euronews
+rtp://@239.1.1.193:9132
+#EXTINF:0 group-title="News",TRTWORLD
+rtp://@239.1.2.84:8296
+#EXTINF:0 group-title="News",CNN
+rtp://@239.1.1.105:8604
+#EXTINF:0 group-title="News",CNA
+rtp://@239.1.1.65:8364
+#EXTINF:0 group-title="News",Aljazeera
+rtp://@239.1.1.195:9144
+#EXTINF:0 group-title="News",France24
+rtp://@239.1.1.191:9120
+#EXTINF:0 group-title="News",NHK World Japan
+rtp://@239.1.1.236:9390
+#EXTINF:0 group-title="News",DW
+rtp://@239.1.1.187:9096
+#EXTINF:0 group-title="Movie",HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:0 group-title="Movie",HBO Hits HD
+rtp://@239.1.1.215:9264
+#EXTINF:0 group-title="Movie",HBO Signature HD
+rtp://@239.1.2.249:9378
+#EXTINF:0 group-title="Movie",HBO Family HD
+rtp://@239.1.2.245:9366
+#EXTINF:0 group-title="Movie",CINEMAX HD
+rtp://@239.1.2.247:9372
+#EXTINF:0 group-title="Movie",CinemaWorld HD
+rtp://@239.1.2.80:8578
+#EXTINF:0 group-title="Movie",Galaxy Premium HD
+rtp://@239.1.2.100:9518
